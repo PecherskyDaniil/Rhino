@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="qml/Rbody.qml">C:/Users/cdtt3/Documents/Rhino/qml/Rbody.qml</file>
+    <file alias="qml/Rleg.qml">C:/Users/cdtt3/Documents/Rhino/qml/Rleg.qml</file>
+    <file alias="qml/Rhead.qml">C:/Users/cdtt3/Documents/Rhino/qml/Rhead.qml</file>
+    <file alias="qml/Bbody.qml">C:/Users/cdtt3/Documents/Rhino/qml/Bbody.qml</file>
+    <file alias="qml/Bleg.qml">C:/Users/cdtt3/Documents/Rhino/qml/Bleg.qml</file>
+    <file alias="qml/Bhead.qml">C:/Users/cdtt3/Documents/Rhino/qml/Bhead.qml</file>
+  </qresource>
+</RCC>
+

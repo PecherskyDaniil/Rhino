@@ -1,0 +1,10 @@
+module Rhino
+typeinfo appRhino.qmltypes
+prefer :/
+Rbody 1.0 qml/Rbody.qml
+Rleg 1.0 qml/Rleg.qml
+Rhead 1.0 qml/Rhead.qml
+Bbody 1.0 qml/Bbody.qml
+Bleg 1.0 qml/Bleg.qml
+Bhead 1.0 qml/Bhead.qml
+
